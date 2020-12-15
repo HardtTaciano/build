@@ -1,0 +1,25 @@
+{
+	"short_name": "HARDT Admin",
+	"name": "HARDT Informática Admin",
+	"icons": [
+		{
+			"src": "apple-touch-icon-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "apple-touch-icon-152x152.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "apple-touch-icon-310x310.png",
+			"sizes": "310x310",
+			"type": "image/png"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#013e55",
+	"background_color": "#ffffff"
+}

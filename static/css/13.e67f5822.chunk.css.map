@@ -1,0 +1,1 @@
+{"version":3,"sources":["estilos.module.css"],"names":[],"mappings":"AAAA,0BACC,UACD,CAEA,yBACC,0BACC,QACD,CACD","file":"13.e67f5822.chunk.css","sourcesContent":[".Container {\r\n\twidth: 100%;\r\n}\r\n\r\n@media (max-width: 800px) {\r\n\t.Container {\r\n\t\tmargin: 0;\r\n\t}\r\n}\r\n"]}
